@@ -3,7 +3,7 @@
 Welcome to my messy but functional code! (near 500 lines hahah). I made this before as a beginner. 
 (Yes, it looks chaotic, but don’t worry, it does the job. At the end, your ice cream still gets served.)  
 
-This is a simple program that records and prints a receipt. It’s one-time use only since I don't use file handling.
+This is a simple program that records and prints a receipt. It’s one-time use only since I didn't use file handling.
 
 ---
 
