@@ -50,9 +50,10 @@ Finally, you can choose to print a detailed receipt with shop info, item breakdo
 
 ## How to Run
 1. Copy the code into a file named `tusoktusok.c`  
-2. Compile with:  
+2. Compile with:
+   
    ```bash
-   gcc receipt.c -o receipt
+   gcc receipt.c -o tusoktusok
 ---
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="80"/>
