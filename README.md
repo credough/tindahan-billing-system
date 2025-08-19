@@ -1,10 +1,9 @@
 # Food Stall Billing System
 
-### Intro
-Welcome to my messy but functional code! 
-(Yes, it might look chaotic, but don’t worry—it does the job. At the end, the pizza still gets served.)  
+Welcome to my messy but functional code! (near 500 lines hahah). I made this before as a beginner. 
+(Yes, it looks chaotic, but don’t worry, it does the job. At the end, your ice cream still gets served.)  
 
-This is a simple C program that records and prints a receipt. It’s designed for one-time use only since no file handling involved.
+This is a simple program that records and prints a receipt. It’s one-time use only since I don't use file handling.
 
 ---
 
@@ -54,15 +53,7 @@ Finally, you can choose to print a detailed receipt with shop info, item breakdo
 2. Compile with:  
    ```bash
    gcc receipt.c -o receipt
-
 ---
 
-## Diagram
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" width="80"/>
 
-[Choose Food] → [Show Price] → [Add to Cart or Proceed?]
-                   |                  |
-                   ↓                  ↓
-              [Back to Menu]     [Show Cart + Vouchers] → [Final Price] → [Receipt]
----
-
-![Language](https://img.shields.io/badge/language-C-blue)
