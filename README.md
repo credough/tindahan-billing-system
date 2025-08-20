@@ -31,20 +31,14 @@ When you proceed, the program finalizes your orders and shows the current cart t
 ---
 
 ### 4. Voucher Selection  
-Depending on your cart amount, vouchers appear (e.g., `GASTOSMOTOL`, `PANTROPA`, `YAMAN`). The program applies the discount and adds VAT.  
+Depending on your cart amount, vouchers appear (e.g., `GASTOSMOTOL`, `PANTROPA`, `YAMAN`). The program applies the discount and adds VAT. After discounts and tax, the program presents your final payable amount.  
 ![Voucher](sst5.png)
 
 ---
 
-### 5. Final Price  
-After discounts and tax, the program presents your final payable amount.  
-![Final Price](sst6.png)
-
----
-
-### 6. Receipt Generation  
+### 5. Receipt Generation  
 Finally, you can choose to print a detailed receipt with shop info, item breakdown, discounts, VAT, and total.  
-![Receipt](sst7.png)
+![Receipt](sst6.png)
 
 ---
 
